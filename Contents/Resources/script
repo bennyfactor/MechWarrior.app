@@ -1,0 +1,1 @@
+open -a DOSBox --args -conf /Applications/MechWarrior.app/Contents/Resources/MechWarrior-1/dosbox.conf

@@ -1,0 +1,61 @@
+@EDIT    \ETC\EDIT.EXE
+  The EDIT module allows you to interactively input, edit and transform
+data.
+@DATA    \ETC\DATA.EXE
+  The DATA module offers a wide range of facilities for creating and   
+transforming a SYSTAT data file.  DATA features file handling facilities,
+transformation commands, the BASIC programming language, and Lotus, dBASE
+and DIF data file import/export. 
+@SSORT   \ETC\SSORT.EXE
+  The SSORT utility program allows you to quickly sort SYSTAT files in
+ascending or descending order by up to 10 key variables.
+@MACPC   \ETC\MACPC.EXE
+  The MACPC utility program translates binary SYSTAT (.SYS) files between
+Macintosh and MS-DOS/PC-DOS machines.
+@MACRO   \ETC\MACRO.EXE
+  The MACRO module is an application generator. You can program front-ends
+to common data manipulation and analysis tasks.
+@SYGRAPH \ETC\SYGRAPH.EXE
+  The SYGRAPH package can produce a variety of 2- and 3-dimensional 
+high-resolution statistical, scientific and business  graphics.
+GRAPH produces scatterplots, scatterplot matrices, surface and contour
+plots, equation plots, density plots such as histograms, stem-and-leaf
+displays, box plots, iconic plots such as blobs or Chernov's faces,
+probability plots, quantile plots, and pie and bar charts.
+@CLUSTER \ETC\CLUSTER.EXE
+  The CLUSTER module offers a variety of cluster analysis methods on 
+rectangular or symmetric data matrices.
+@CORR    \ETC\CORR.EXE
+  The correlation module is for computing symmetric triangular matrices
+of correlation and similarity on a dataset.
+@FACTOR  \ETC\FACTOR.EXE
+  FACTOR produces a principal components analysis with optional rotations
+and factor scores.
+@GRAPH   \ETC\GRAPH.EXE
+  The GRAPH module can produce a variety of character-based statistical
+graphics.  GRAPH produces scatterplots, histograms, stem-and-leaf displays,
+box plots, probability plots, and quantile plots.
+@MDS     \ETC\MDS.EXE
+  The MDS module offers nonmetric multidimensional scaling of a similarity
+or dissimilarity matrix in 1 to 5 dimensions.
+@MGLH    \ETC\MGLH.EXE
+  The MGLH procedure can estimate and test any univariate or multivariate
+general linear model.  
+@NONLIN  \ETC\NONLIN.EXE
+  The NONLIN module implements Quasi-Newton and Simplex nonlinear estimation 
+of algebraic functions.  Loss functions may be specified for maximum-likelihood
+and other methods.
+@NPAR    \ETC\NPAR.EXE
+  The NPAR module computes various nonparametric statistics for groups
+of cases and pairs of variables.
+@SERIES  \ETC\SERIES.EXE
+  The SERIES module contains methods for analyzing time series.  Three basic
+commands implement a wide variety of time series models, including Box-Jenkins
+ARIMA, Fourier analysis, and linear and nonlinear filtering.
+@STATS   \ETC\STATS.EXE
+  The STATS module computes means, standard deviations, skewness, kurtosis,
+minima, maxima, sums, ranges, standard error of the mean, and variances
+for all numerical variables in a SYSTAT file.
+@TABLES  \ETC\TABLES.EXE
+  The TABLES module will produce multi-way tables and, optionally, fit them
+with a log-linear model.
