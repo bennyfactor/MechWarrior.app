@@ -1,6 +1,5 @@
 This is a macOS executable of MechWarrior (1989) it is set up and ready to
-go with with everything properly configured. Just download this entire 
-repository in the upper right corner of the Github interface [(or click this link)](https://github.com/bennyfactor/MechWarrior.app/archive/refs/heads/main.zip). It will show
+go with with everything properly configured. Just download the latest release on the  right side of the Github interface [(or click this link)](https://github.com/bennyfactor/MechWarrior.app/releases/download/v1.0.0/MechWarrior.app.zip). It will show
 up as an Application. Drag and drop this in your /Applications folder.
 
 Also, you must install the [latest version of DOSbox](https://sourceforge.net/projects/dosbox/files/dosbox/0.74-3/DOSBox-0.74-3-3.dmg/download) to /Applications as 
